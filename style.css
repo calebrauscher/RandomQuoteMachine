@@ -1,0 +1,32 @@
+body {
+    background-color: #578CA9;
+    text-align: center;
+  }
+  
+  .text-box {
+    padding: 10px;
+    background-color: #004B8D;
+    margin: 2% 25%;
+  }
+  #text, #author {
+    margin-bottom: 10px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 24px;
+  }
+  
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  #new-quote {
+    margin-right: 60%;
+  }
